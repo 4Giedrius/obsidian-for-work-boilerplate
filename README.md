@@ -1,1 +1,1 @@
-# obsidian-for-work-starter
+An opinionated boilerplate using [Obsidian](https://obsidian.md/) for work.
