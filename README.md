@@ -1,0 +1,1 @@
+# obsidian-for-work-starter
