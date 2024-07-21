@@ -5,6 +5,17 @@ aliases:
 lastTalk: ""
 ---
 
+> [!summary]-
+> 
+> Aspiration - Head of Product in 2 years
+> 
+> Growth needs:
+> Sensitivity to other people's feelings and needs
+Showing appreciation for other people’s contributions
+Practicing patience and being in the present moment
+Giving space to others instead of micromanaging
+
+
 ```dataviewjs
 function callout(text, type) {
     const allText = `> [!${type}]\n` + text;
@@ -22,7 +33,6 @@ group by heading
 
 dv.paragraph(callout('```tasks\n' + query + '\n```', 'Accountability'));
 ```
-
 
 
 
