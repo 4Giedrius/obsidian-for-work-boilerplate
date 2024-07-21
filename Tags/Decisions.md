@@ -1,4 +1,0 @@
-
-```query
-tag:decision
-```

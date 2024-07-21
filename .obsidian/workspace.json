@@ -13,8 +13,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Dwight Schrute.md",
+                "file": "People/1on1s/1on1s.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50f2063f370bbd05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/1on1s/1on1s.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6b2bda69628a906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/1on1s/1on1 questions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ded99b4b01643368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tags/NextOKR.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -27,12 +67,39 @@
               "state": {
                 "file": "People/Hiring/Pete Miller.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c22839ae8c61618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Dwight Schrute.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f6fb023089ccca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geos/Africa.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Hiring/Pete Miller.md",
+                "file": "Tags/NextOKR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Hiring/Pete Miller.md",
+                "file": "Tags/NextOKR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Hiring/Pete Miller.md"
+                "file": "Tags/NextOKR.md"
               }
             }
           }
@@ -159,25 +226,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a99524366728b3c0",
+  "active": "ded99b4b01643368",
   "lastOpenFiles": [
-    "Tasks/Tasks.md",
-    "People/Hiring/Pete Miller.md",
     "People/Dwight Schrute.md",
-    "People/Hiring/Questions Bank/Learn and Be Curious Interview Questions.md",
-    "People/Hiring/Questions Bank",
-    "People/Hiring",
-    "Tags/Decisions.md",
     "Tags/Ideas.md",
+    "People/1on1s/1on1s.md",
+    "People/1on1s/1on1 questions.md",
+    "People/1on1s",
+    "@Obsidian 1.md",
+    "People/Hiring/Questions Bank/Learn and Be Curious Interview Questions.md",
+    "Technology/DC.md",
+    "Geos/Africa.md",
+    "Technology/DNS.md",
+    "Geos",
+    "People/Hiring/Pete Miller.md",
+    "Technology",
+    "Tasks/Tasks.md",
+    "Tasks/Learn.md",
     "Tags/NextOKR.md",
-    "Tags/Questions.md",
+    "Tags/Decisions.md",
     "Tasks/Accountability.md",
     "Tasks/Think.md",
-    "Tasks/Decisions.md",
-    "Templates/Date.md",
-    "1on1s.md",
     "Demo.md",
     "README.md",
+    "Next OKR.md",
+    "People/Hiring/Questions Bank",
+    "People/Hiring",
+    "Tags/Questions.md",
+    "Tasks/Decisions.md",
+    "Templates/Date.md",
     "Files",
     "Internal link.md",
     "People"

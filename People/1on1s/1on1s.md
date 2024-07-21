@@ -19,4 +19,7 @@ SORT lastTalk[1] ASC
 
 ----
 
+![[1on1 questions]]
+
+[1-1 Template and Instructions](https://docs.google.com/document/d/1j7ZNWTh9ClS0PZHrpZXGk879pv9LXDWt6sjaq1uA-zA/edit)
 

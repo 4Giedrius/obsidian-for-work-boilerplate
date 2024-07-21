@@ -4,8 +4,3 @@ Are there signs of continuous learning?
 
 ![[Learn and Be Curious Interview Questions]]
 
-
-
-
-
-
