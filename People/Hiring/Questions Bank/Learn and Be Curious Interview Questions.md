@@ -1,0 +1,10 @@
+- Tell me about something you have learned externally that you apply to your work. 
+- How do you pay attention to external trends, and what is happening in the industry?
+- Tell me about a time when you took on a new role and had to learn the details and intricacies of the business. How did you build and maintain your expertise? 
+- What is an example of something you learned recently through your own curiosity, either in or out of the workplace.
+- When was the last time you tried a new method to improve your own work performance? How did you learn about the method and did it work?
+- What do you consider to be the most innovative thing you've ever done (this can be an example from work, school, or personal hobbies)?
+- Do you have an example from your career where you were able to identify a simple solution to what was considered a complex problem?
+- What are your primary learning sources, and when was the last time you recommended a good book or website that you are like reading?
+- Tell me about a time when you had to dig deeply into learning about the tools and resources that were available to you in order to solve a problem.
+- What is your favoured learning style, and how did you discover what works best for you in terms of acquiring new knowledge?

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Dwight Schrute.md",
+                "file": "People/Hiring/Pete Miller.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Dwight Schrute.md",
+                "file": "People/Hiring/Pete Miller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Dwight Schrute.md",
+                "file": "People/Hiring/Pete Miller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Dwight Schrute.md"
+                "file": "People/Hiring/Pete Miller.md"
               }
             }
           }
@@ -159,20 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6680694c9e6fbabf",
+  "active": "a99524366728b3c0",
   "lastOpenFiles": [
+    "Tasks/Tasks.md",
+    "People/Hiring/Pete Miller.md",
+    "People/Dwight Schrute.md",
+    "People/Hiring/Questions Bank/Learn and Be Curious Interview Questions.md",
+    "People/Hiring/Questions Bank",
+    "People/Hiring",
     "Tags/Decisions.md",
     "Tags/Ideas.md",
     "Tags/NextOKR.md",
     "Tags/Questions.md",
     "Tasks/Accountability.md",
-    "Tasks/Tasks.md",
     "Tasks/Think.md",
     "Tasks/Decisions.md",
     "Templates/Date.md",
     "1on1s.md",
     "Demo.md",
-    "People/Dwight Schrute.md",
     "README.md",
     "Files",
     "Internal link.md",
