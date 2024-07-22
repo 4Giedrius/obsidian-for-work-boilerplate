@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/1on1s/1on1s.md",
+                "file": "Tasks/Tasks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b6f905f06fe22f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Presentation Checklist.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d967aa799f1c5bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Design System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,6 +86,16 @@
             }
           },
           {
+            "id": "238c541504e883ab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "a99524366728b3c0",
             "type": "leaf",
             "state": {
@@ -99,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +164,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#toThink",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +181,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/NextOKR.md",
+                "file": "Technology/Design System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags/NextOKR.md",
+                "file": "Technology/Design System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags/NextOKR.md"
+                "file": "Technology/Design System.md"
               }
             }
           }
@@ -226,11 +263,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ded99b4b01643368",
+  "active": "4d967aa799f1c5bf",
   "lastOpenFiles": [
     "People/Dwight Schrute.md",
-    "Tags/Ideas.md",
+    "Presentation Checklist.md",
+    "Tags/NextOKR.md",
+    "Demo.md",
+    "Templates/Date.md",
+    "Tasks/Think.md",
+    "Tasks/Learn.md",
+    "Tasks/Tasks.md",
     "People/1on1s/1on1s.md",
+    "People/Emma Johnson.md",
+    "People/Hiring/Pete Miller.md",
+    "Technology/Design System.md",
+    "2024-07-22.md",
+    "Tags/Ideas.md",
     "People/1on1s/1on1 questions.md",
     "People/1on1s",
     "@Obsidian 1.md",
@@ -239,24 +287,16 @@
     "Geos/Africa.md",
     "Technology/DNS.md",
     "Geos",
-    "People/Hiring/Pete Miller.md",
     "Technology",
-    "Tasks/Tasks.md",
-    "Tasks/Learn.md",
-    "Tags/NextOKR.md",
     "Tags/Decisions.md",
     "Tasks/Accountability.md",
-    "Tasks/Think.md",
-    "Demo.md",
     "README.md",
     "Next OKR.md",
     "People/Hiring/Questions Bank",
     "People/Hiring",
     "Tags/Questions.md",
     "Tasks/Decisions.md",
-    "Templates/Date.md",
     "Files",
-    "Internal link.md",
     "People"
   ]
 }
